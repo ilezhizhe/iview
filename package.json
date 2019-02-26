@@ -1,7 +1,7 @@
 {
-    "name": "iview",
-    "version": "3.2.2",
-    "title": "iView",
+    "name": "imoreview",
+    "version": "0.0.1",
+    "title": "imoreView",
     "description": "A high quality UI components Library with Vue.js",
     "homepage": "http://www.iviewui.com",
     "keywords": [
